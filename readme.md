@@ -113,6 +113,8 @@ PBL 수업의 팀프로젝트 평가 방식은 '팀간 상호평가', '팀원간
  ### Hyeseon Lee 
   - 👩‍💻 __Developer__
   - 📊 __Data·DataBase__
+  - 🎨 __Front-End·Design·UI/UX Interface__
+
  ### Taewon Jin 
   - 🧑‍💻 __Developer__
   - 💻 __Dev·Logic·Network__
@@ -121,7 +123,7 @@ PBL 수업의 팀프로젝트 평가 방식은 '팀간 상호평가', '팀원간
   - 📊 __DataScience·Algorithm__
  ### Ina Woo 
   - 👩‍💻 __Designer__
-  - 🎨 __Front-End·Design·UI/UX Interface__
+  - 🎨 __Design·UI/UX Interface__
  
  --------------
 # License
